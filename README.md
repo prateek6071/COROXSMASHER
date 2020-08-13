@@ -8,7 +8,9 @@ completely from scratch built initially on
 
 pycharm as platform using the python libraries such as
 
-blit() method and pygame  for positioning the objects ,while using 
+pygame ,mixer,random ,time .Blit() method and pygame have 
 
-mixer to add sound effects
+been used for positioning the objects ,while  
+
+mixer has been used to add  sound effects
 */
